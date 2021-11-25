@@ -1,2 +1,2 @@
-# find-gdrive
- Find file in Google Drive using Google Script.
+# Find Google Drive - Google Script
+Find file in Google Drive using Google Script.
